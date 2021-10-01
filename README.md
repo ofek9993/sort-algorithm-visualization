@@ -1,8 +1,8 @@
 # sort-algorithm-visualization
 I did a small project using python and Tinker ui to visualize how merge sort, quick sort and insertion sort algorithms work. 
 to showcase my work heres a gif of how the quick sort algo work.
-(n![algo visual quick sort](https://user-images.githubusercontent.com/43711624/127748580-321b3505-7b33-488d-beb6-dc7e4381798a.gif)
-ame-of-giphy.gif)
+![algo visual quick sort](https://user-images.githubusercontent.com/43711624/127748580-321b3505-7b33-488d-beb6-dc7e4381798a.gif)
+
 
 
 
