@@ -17,7 +17,7 @@ ame-of-giphy.gif)
 
 
 heres a gif of how the merge sort algo work.
-(name-of-giphy.gif)![algo visual merg sort](https://user-images.githubusercontent.com/43711624/127748640-1f5c3e0d-4956-40c3-b28d-7d7f7e1e35d9.gif)
+![algo visual merg sort](https://user-images.githubusercontent.com/43711624/127748640-1f5c3e0d-4956-40c3-b28d-7d7f7e1e35d9.gif)
 
 
 
